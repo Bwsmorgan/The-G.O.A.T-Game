@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assembly-CSharp" expanded="True" />
+          <Node name="Assembly-CSharp-firstpass" expanded="True" />
+          <Node name="Assembly-CSharp-firstpass-vs" expanded="True">
+            <Node name="Assembly-CSharp-firstpass-vs" selected="True" />
+          </Node>
+          <Node name="Assembly-CSharp-vs" expanded="True" />
+          <Node name="Cisc game" expanded="True" />
+          <Node name="Cisc game-csharp" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

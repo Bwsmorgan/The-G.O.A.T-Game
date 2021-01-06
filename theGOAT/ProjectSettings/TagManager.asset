@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Floor
+  - Solid
+  - FakeWallStart
+  - FakewallRightSide
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - FriendlyProjectile
+  - EnemyProjectile
+  - Player
+  - Enemy
+  - Wall
+  - Pickups
+  - FakeWall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 4288240895
+    locked: 0
+  - name: Weapon
+    uniqueID: 179867337
+    locked: 0
+  - name: Enemies
+    uniqueID: 1760553155
+    locked: 0
+  - name: FakeWalls
+    uniqueID: 883698851
+    locked: 0
+  - name: UI
+    uniqueID: 1597952527
+    locked: 0
